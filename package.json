@@ -1,6 +1,6 @@
 {
   "name": "karmchenki-selection-tunneler",
-  "displayName": "karmchenki-selection-tunneler",
+  "displayName": "Karmchenki Selection Tunneler",
   "description": "move the caret from one side to another of the selection with the left and right arrow keys",
   "publisher": "Karmchenki",
 	"repository": "https://github.com/vistuleB/karmchenki-selection-tunneler",
